@@ -46,17 +46,20 @@
 
 I have prepared detailed testing documents to showcase my Quality Assurance work on the following projects:
 
+## 📋 QA Testing Documentation
+
 ### COVID-19 Cases Tracker
-- [Test Plan (DOCX - Download)](Covid-19-Testing/Covid-19 Test Plan.docx)
+- [Test Plan (PDF)](Covid-19-Testing/Covid-19_Test_Plan.pdf)
 - [Test Cases (Excel)](Covid-19-Testing/Covid19_Test_Cases.xlsx)
 - [Bug Reports (Excel)](Covid-19-Testing/Covid19_Bug_Reports.xlsx)
-- [Test Summary Report (DOCX - Download)](Covid-19-Testing/Test Summary Report.docx)
+- [Test Summary Report (PDF)](Covid-19-Testing/Test_Summary_Report.pdf)
 
 ### Face Recognition Attendance System
-- [Test Plan (DOCX - Download)](Face-Recognition-system-Testing/Test Plan FaceRecognitionSystem.docx)
+- [Test Plan (PDF)](Face-Recognition-system-Testing/Face_Recognition_Test_Plan.pdf)
 - [Test Cases (Excel)](Face-Recognition-system-Testing/Face_Recognition_Attendance_Test_Cases.xlsx)
 - [Bug Reports (Excel)](Face-Recognition-system-Testing/FRA_BugReport.xlsx)
-- [Test Summary Report (DOCX - Download)](Face-Recognition-system-Testing/Face Recognition-Test Summary Report.docx)
+- [Test Summary Report (PDF)](Face-Recognition-system-Testing/Face_Recognition_Test_Summary_Report.pdf)
+
 
 *Feel free to explore these documents to understand my approach to software testing and quality assurance.*
 
