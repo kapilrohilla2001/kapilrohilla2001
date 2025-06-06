@@ -42,6 +42,24 @@
 ### Mobile App Testing
 - Designed 30+ test cases covering UI validation, form inputs, and error handling for Edu Elementary App.
 
+## 📋 QA Testing Documentation
+
+I have prepared detailed testing documents to showcase my Quality Assurance work on the following projects:
+
+### COVID-19 Cases Tracker
+- [Test Plan (DOCX - Download)](Covid-19-Testing/Covid-19 Test Plan.docx)
+- [Test Cases (Excel)](Covid-19-Testing/Covid19_Test_Cases.xlsx)
+- [Bug Reports (Excel)](Covid-19-Testing/Covid19_Bug_Reports.xlsx)
+- [Test Summary Report (DOCX - Download)](Covid-19-Testing/Test Summary Report.docx)
+
+### Face Recognition Attendance System
+- [Test Plan (DOCX - Download)](Face-Recognition-system-Testing/Test Plan FaceRecognitionSystem.docx)
+- [Test Cases (Excel)](Face-Recognition-system-Testing/Face_Recognition_Attendance_Test_Cases.xlsx)
+- [Bug Reports (Excel)](Face-Recognition-system-Testing/FRA_BugReport.xlsx)
+- [Test Summary Report (DOCX - Download)](Face-Recognition-system-Testing/Face Recognition-Test Summary Report.docx)
+
+*Feel free to explore these documents to understand my approach to software testing and quality assurance.*
+
 ## 🔥 GitHub Stats
 ![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilrohilla2001&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kapilrohilla2001&show_icons=true&locale=en&layout=compact&theme=tokyonight)
