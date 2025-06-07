@@ -49,10 +49,10 @@ I have prepared detailed testing documents to showcase my Quality Assurance work
 ## 📋 QA Testing Documentation
 
 ### COVID-19 Cases Tracker
-- [Test Plan (PDF)](Covid-19-Testing/Covid-19 Test Plan.pdf)
+- [Test Plan (PDF)](Covid-19-Testing/Covid-19_Test_Plan.pdf)
 - [Test Cases (Excel)](Covid-19-Testing/Covid19_Test_Cases.xlsx)
 - [Bug Reports (Excel)](Covid-19-Testing/Covid19_Bug_Reports.xlsx)
-- [Test Summary Report (PDF)](Covid-19-Testing/Test Summary Report.pdf)
+- [Test Summary Report (PDF)](Covid-19-Testing/Test_Summary_Report.pdf)
 
 ### Face Recognition Attendance System
 - [Test Plan (PDF)](Face-Recognition-system-Testing/Face_Recognition_Test_Plan.pdf)
